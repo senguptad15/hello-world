@@ -12,6 +12,6 @@ function sayHelloBrowser() {
 }
 
 function sayHelloStranger() {
-  var i=prompt("Please enter your name", "Issa")
+  var i=prompt("Please enter your name", "DebForRep")
   alert("Hello" + i)
 }
